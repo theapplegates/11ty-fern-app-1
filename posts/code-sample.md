@@ -28,3 +28,6 @@ function myCommand() {
 Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
 
 {% image "Paul-Kevin-2.jpg", "Me and my brother Kevin" %}
+
+
+{% image "kingsisland-tatto.jpg", "A nice tat at a local amusement park" %}
