@@ -29,3 +29,8 @@ Image from Upload panel.
 
 
 ![Tat](/static/img/kingsisland-tatto.jpg)
+
+
+
+
+{% image "kingsisland-tatto.jpg", "A test image of a tattoo" %}
