@@ -17,9 +17,11 @@
   --color-danger: #e03e3e;
 
   /* Typography */
-  --font-family-base: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
-    "Helvetica Neue", Arial, "Noto Sans", sans-serif;
-  --font-family-heading: var(--font-family-base);
+--font-family-base: 'Josefin Slab';
+//--font-family-base: 'Josefin Slab', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    //"Helvetica Neue", Arial, "Noto Sans", sans-serif;
+--font-family: 'Josefin Slab', serif;
+--font-family-heading: var(--font-family-base);
 
   /* Sizes */
   --site-width: 850px;
