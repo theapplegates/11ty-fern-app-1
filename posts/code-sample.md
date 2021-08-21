@@ -16,6 +16,8 @@ Bring to the table win-win survival strategies to ensure proactive domination. A
 
 ## Section Header
 
+{% image "kingsisland-tatto.jpg", "A test image of a tattoo" %}
+
 Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.
 
 ``` text/2-3
