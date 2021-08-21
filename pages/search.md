@@ -16,4 +16,4 @@ Need to find something?
 2. Watch as the web magic happens
 3. Goto the page you were looking for
 
-<div id="search me"></div>
+<div id="search"></div>
