@@ -4,7 +4,19 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>{{ renderData.title or title or metadata.title }}</title>
   <meta name="description" content="{{ metaDescription or renderData.metaDescription or metadata.description }}">
+	<script src="https://kit.fontawesome.com/96d943cb0f.js" crossorigin="anonymous"></script>
   <script async src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@algolia/algoliasearch-netlify-frontend@1/dist/algoliasearchNetlify.css" />
+	<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/@algolia/algoliasearch-netlify-frontend@1/dist/algoliasearchNetlify.js"></script>
+	<script type="text/javascript">
+		algoliasearchNetlify({
+			appId: '0S9NE5N936',
+			apiKey: 'c143db55ed54f33809a2cc4ea1979051',
+			siteId: '8308e6ac-7ca1-43ab-8ff2-2cdea8640fd8',
+			branch: 'main',
+			selector: 'div#search',
+		});
+	</script>
   {% set css %}
     {% include "assets/css/normalize.css" %}
     {% include "assets/css/variables.css" %}
@@ -21,6 +33,9 @@
 
     {% if page.url == '/contact/' %}
       {% include "assets/css/contact.css" %}
+			{% endif %}
+			{% if page.url == '/search/' %}
+			{% include "assets/css/search.css" %}
     {% endif %}
   {% endset %}
   <style>{{ css | cssmin | safe }}</style>
