@@ -3,9 +3,17 @@ layout: layouts/base.njk
 section: search
 ---
 <div class="page-container">
-	<h1>{{ title }}</h1>
-	<hr>
-	{{ layoutContent | safe }}
+  <h1>{{title}}</h1>
+  {% if subtitle %}
+    <p>{{ subtitle }}</p>
+  {% endif %}
+  <hr>
+  {{ layoutContent | safe }}
 
-	{% include "components/search.njk" %}
+  {% set projectlist = collections.project %}
+  {% include "components/search.njk" %}
 </div>
+
+
+
+
