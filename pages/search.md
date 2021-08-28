@@ -8,7 +8,7 @@ metaDescription: A search page
 subtitle: Search Subtitle
 eleventyNavigation:
 	key: Search
-	order: 6
+	order: 3
 ---
 
 Need to find something?
