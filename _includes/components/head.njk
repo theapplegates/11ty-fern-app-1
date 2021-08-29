@@ -31,7 +31,6 @@
     {% if page.url == '/' %}
       {% include "assets/css/home-page.css" %}
     {% endif %}
-
     {% if page.url == '/contact/' %}
       {% include "assets/css/contact.css" %}
 			{% endif %}
@@ -44,4 +43,5 @@
     {% include "assets/js/inline.js" %}
   {% endset %}
   <script>{{ js | jsmin | safe }}</script>
+	<div id="search"></div>
 </head>
