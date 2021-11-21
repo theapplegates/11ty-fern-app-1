@@ -2,7 +2,7 @@
   publish = "_site"
   command = "eleventy"
   NODE_VERSION = "16"
-  
+
 # REDIRECT and HEADERS examples
 
 # Redirect rule example
