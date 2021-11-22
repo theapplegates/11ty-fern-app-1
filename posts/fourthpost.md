@@ -13,12 +13,8 @@ Random Unsplash Image added below:
 
 Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
 
+![fern](https://applegate-paul.mo.cloudinary.net/static/img/Fern-pic.jpg)
 
-![George](https://applegate-paul.mo.cloudinary.net/static/img/police-george-floyd.jpg)
 
+![fern](https://applegate-paul.mo.cloudinary.net/img/Fern-pic.jpg)
 
-![test](https://applegate-paul.mo.cloudinary.net/img/photo.jpg)
-
-![test2](https://applegate-paul.mo.cloudinary.net/img/ice-cream.jpg)
-
-![test3](https://applegate-paul.mo.cloudinary.net/static/img/ice-cream.jpg)
