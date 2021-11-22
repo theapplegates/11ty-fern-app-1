@@ -18,3 +18,6 @@ Leverage agile frameworks to provide a robust synopsis for high level overviews.
 
 ![fern](https://applegate-paul.mo.cloudinary.net/img/Fern-pic.jpg)
 
+![plant](/static/img/Fern-pic.jpg)
+
+
