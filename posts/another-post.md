@@ -5,7 +5,7 @@ author: Anonymous
 summary: just testing
 tags:
 	- Christmas
-	- Corvette
+  - Corvette  
 ---
 All I want for Christmas is , who knows.
 ![Corvette_exaust](/static/img/2023-Corvette.jpg "A car's ass.")
