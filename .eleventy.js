@@ -9,7 +9,7 @@ const path = require('path')
 
 async function imageShortcode(src, alt) {
   let sizes = "(min-width: 1024px) 100vw, 50vw"
-  let srcPrefix = `./src/img2/`
+  let srcPrefix = `./static/img/`
   src = srcPrefix + src
   console.log(`Generating image(s) from:  ${src}`)
   if(alt === undefined) {
@@ -19,8 +19,8 @@ async function imageShortcode(src, alt) {
   let metadata = await Image(src, {
     widths: [300, 600, 900, 1500, 3000],
     formats: ['avif', 'webp', 'jpeg'],
-    urlPath: "/img2/",
-    outputDir: "./_site/img2/",
+    urlPath: "/img/",
+    outputDir: "./_site/static/img/",
     /* =====
     Now we'll make sure each resulting file's name will 
     make sense to you. **This** is why you need 
