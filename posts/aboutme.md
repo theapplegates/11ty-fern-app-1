@@ -5,7 +5,6 @@ author: Anonymous
 summary: a little trivia about me
 tags:
 	- Me
-	- Trivia  
 ---
 
 
