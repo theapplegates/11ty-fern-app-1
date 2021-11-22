@@ -17,4 +17,4 @@ Leverage agile frameworks to provide a robust synopsis for high level overviews.
 ![George](https://applegate-paul.mo.cloudinary.net/static/img/police-george-floyd.jpg)
 
 
-![test](https://applegate-paul.mo.cloudinary.net/static/img/photo.jpg)
+![test](https://applegate-paul.mo.cloudinary.net/img/photo.jpg)
