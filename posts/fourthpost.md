@@ -20,3 +20,5 @@ Leverage agile frameworks to provide a robust synopsis for high level overviews.
 ![test](https://applegate-paul.mo.cloudinary.net/img/photo.jpg)
 
 ![test2](https://applegate-paul.mo.cloudinary.net/img/ice-cream.jpg)
+
+![test3](https://applegate-paul.mo.cloudinary.net/static/img/ice-cream.jpg)
